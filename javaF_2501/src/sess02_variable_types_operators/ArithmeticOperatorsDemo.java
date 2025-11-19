@@ -84,4 +84,4 @@ public class ArithmeticOperatorsDemo {
        System.out.println("         END OF ARITHMETIC OPERATORS DEMO");
        System.out.println("=".repeat(62));
    }
-}
+} 

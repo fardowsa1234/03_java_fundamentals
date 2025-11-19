@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  *java program that accepts the temperature in degree Celcius and 
  * converts it to degrees Fahrenheit
- * @author user
+ * @author Fardowsa
  */
 public class TempConverter {
     // main method begins program execution
