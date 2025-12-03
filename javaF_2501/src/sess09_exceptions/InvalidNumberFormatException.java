@@ -2,7 +2,7 @@ package sess09_exceptions;
 
 /**
  *
- * @author a.nyanjui
+
  */
 public class InvalidNumberFormatException extends Exception
 {

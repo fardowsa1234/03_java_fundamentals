@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Java program to demonstrate declaring and instantiating Circle and Sphere
  * objects and displaying their details.
  *
- * @author a.nyanjui
+
  */
 public class CircleSphereDemo
 {

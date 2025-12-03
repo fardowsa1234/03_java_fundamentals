@@ -14,7 +14,7 @@ import util.Spacer;
  * 2. Duration measures the amount of time between two points in time. 
  * 3. Instant represents a specific moment on the timeline (in UTC)
  *
- * @author a.nyanjui
+
  */
 public class TimeAPIDemo
 {

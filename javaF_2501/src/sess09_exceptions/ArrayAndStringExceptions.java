@@ -5,7 +5,7 @@ import util.Spacer;
 /**
  * Java program to demonstrate some common exceptions with arrays and strings.
  * 
- * @author a.nyanjui
+ 
  */
 public class ArrayAndStringExceptions
 {

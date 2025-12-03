@@ -18,7 +18,7 @@ import util.Spacer;
  * 4. MonthDay represents a specific month and day without a year (useful for
  * recurring events like payroll pay dates)
  *
- * @author a.nyanjui
+
  */
 public class LocalDateTimeMonthDayDemo
 {

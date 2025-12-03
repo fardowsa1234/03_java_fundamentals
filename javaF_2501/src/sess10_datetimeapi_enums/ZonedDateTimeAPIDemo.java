@@ -17,7 +17,7 @@ import util.Spacer;
  * 4. ZoneId: Represents a time zone identifier (e.g., "Africa/Nairobi"). 
  * 5. ZoneOffset: Represents a fixed offset from UTC/Greenwich
  * 
- * @author a.nyanjui
+
  */
 public class ZonedDateTimeAPIDemo
 {

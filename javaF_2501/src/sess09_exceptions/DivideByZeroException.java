@@ -24,7 +24,7 @@ package sess09_exceptions;
  * This exception is a {@code RuntimeException} (unchecked), so callers are not
  * forced to catch it unless desired.</p>
  *
- * @author a.nyanjui
+ 
  * @since 1.0
  */
 public class DivideByZeroException extends ArithmeticException

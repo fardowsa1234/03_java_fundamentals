@@ -7,7 +7,7 @@ package sess08_interfaces_and_nested_classes;
  * Any class that implements this interface must provide its own implementation
  * of the {@link #calcSurfaceArea()}, and the {@link #calcVolume()} methods.
  * 
- * @author a.nyanjui
+
  * @version 1.0
  */
 public interface I3DShape

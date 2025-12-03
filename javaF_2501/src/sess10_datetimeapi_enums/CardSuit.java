@@ -8,7 +8,6 @@ package sess10_datetimeapi_enums;
  * 3. CLUBS
  * 4. SPADES
  * 
- * @author a.nyanjui
  */
 public enum CardSuit
 {

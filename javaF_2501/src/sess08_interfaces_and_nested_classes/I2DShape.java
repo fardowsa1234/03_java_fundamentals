@@ -6,7 +6,7 @@ package sess08_interfaces_and_nested_classes;
  * Any class that implements this interface must provide its own implementation
  * of the {@link #calcArea()} method. 
  * 
- * @author a.nyanjui
+
  */
 public interface I2DShape
 {

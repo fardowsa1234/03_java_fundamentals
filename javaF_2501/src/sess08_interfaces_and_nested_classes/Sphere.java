@@ -2,7 +2,7 @@ package sess08_interfaces_and_nested_classes;
 
 /**
  *
- * @author a.nyanjui
+
  */
 public class Sphere extends Circle implements I3DShape
 {
